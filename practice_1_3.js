@@ -3,17 +3,17 @@ let num = 5;
 let bool = true;
 
 //Сложение 
-console.log(str + num);
+console.log(str + bool);
 console.log(str + num);
 console.log(num + bool);
 
 //Умножение
-console.log(str * num);
+console.log(str * bool);
 console.log(str * num);
 console.log(num * bool);
 
 //Деление
-console.log(str / num);
+console.log(str / bool);
 console.log(str / num);
 console.log(num / bool);
 
